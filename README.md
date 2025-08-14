@@ -1,2 +1,2 @@
 # jaera
-Jaera is an real-time map containing the location of every municipal bus
+Jaera is built for you that waits an full hour for your bus arrival!
